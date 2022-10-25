@@ -1,0 +1,32 @@
+body {
+    width: 800px;
+    background-color: rebeccapurple;
+    margin: auto;
+}
+
+table{
+    color: white;
+}
+
+.chuckTable {
+    border: 3px;
+    border-color: gold;
+    border-style: dotted;
+    width: 100%;
+}
+
+td, th{
+    border: 3px;
+    border-color: blanchedalmond;
+    border-style: solid;
+}
+
+tr:nth-child(even){
+    background-color: crimson;
+}
+
+.chuckImg{
+    border: 8px solid black;
+    border-radius: 8px;
+}
+
